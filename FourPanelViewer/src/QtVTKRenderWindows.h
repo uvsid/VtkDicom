@@ -8,6 +8,7 @@
 #include "vtkResliceImageViewerMeasurements.h"
 #include <QMainWindow>
 #include <QFileDialog>
+#include <QDebug>
 
 // Forward Qt class declarations
 class Ui_QtVTKRenderWindows;
@@ -36,6 +37,12 @@ public slots:
   virtual void AddDistanceMeasurementToView( int );
   virtual bool LoadDicom();
   virtual void SliceOnScroll();
+  virtual void Slice0(int i);
+  virtual void Slice1(int i);
+
+  virtual void Slice2(int i);
+
+  virtual void Slice3(int i);
 
 protected:
   vtkSmartPointer< vtkResliceImageViewer > riw[3];

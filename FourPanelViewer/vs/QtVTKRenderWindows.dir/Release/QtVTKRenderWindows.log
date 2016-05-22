@@ -1,33 +1,6 @@
-﻿  QtVTKRenderWindows.cxx
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(306): error C2065: 'KeyPressInteractorStyle': undeclared identifier
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(306): error C2923: 'vtkSmartPointer': 'KeyPressInteractorStyle' is not a valid template type argument for parameter 'T'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(307): error C2065: 'KeyPressInteractorStyle': undeclared identifier
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(307): error C2923: 'vtkSmartPointer': 'KeyPressInteractorStyle' is not a valid template type argument for parameter 'T'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(307): error C2955: 'vtkSmartPointer': use of class template requires template argument list
-  C:\Users\Ujas\Documents\VTK\VTK\Common\Core\vtkSmartPointer.h(26): note: see declaration of 'vtkSmartPointer'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(307): error C2514: 'vtkSmartPointer': class has no constructors
-  C:\Users\Ujas\Documents\VTK\VTK\Common\Core\vtkSmartPointer.h(26): note: see declaration of 'vtkSmartPointer'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(308): error C2065: 'KeyPressInteractorStyle': undeclared identifier
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(308): error C2923: 'vtkSmartPointer': 'KeyPressInteractorStyle' is not a valid template type argument for parameter 'T'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(309): error C2065: 'KeyPressInteractorStyle': undeclared identifier
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(309): error C2923: 'vtkSmartPointer': 'KeyPressInteractorStyle' is not a valid template type argument for parameter 'T'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(309): error C2955: 'vtkSmartPointer': use of class template requires template argument list
-  C:\Users\Ujas\Documents\VTK\VTK\Common\Core\vtkSmartPointer.h(26): note: see declaration of 'vtkSmartPointer'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(309): error C2514: 'vtkSmartPointer': class has no constructors
-  C:\Users\Ujas\Documents\VTK\VTK\Common\Core\vtkSmartPointer.h(26): note: see declaration of 'vtkSmartPointer'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(310): error C2065: 'KeyPressInteractorStyle': undeclared identifier
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(310): error C2923: 'vtkSmartPointer': 'KeyPressInteractorStyle' is not a valid template type argument for parameter 'T'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(311): error C2065: 'KeyPressInteractorStyle': undeclared identifier
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(311): error C2923: 'vtkSmartPointer': 'KeyPressInteractorStyle' is not a valid template type argument for parameter 'T'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(311): error C2955: 'vtkSmartPointer': use of class template requires template argument list
-  C:\Users\Ujas\Documents\VTK\VTK\Common\Core\vtkSmartPointer.h(26): note: see declaration of 'vtkSmartPointer'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(311): error C2514: 'vtkSmartPointer': class has no constructors
-  C:\Users\Ujas\Documents\VTK\VTK\Common\Core\vtkSmartPointer.h(26): note: see declaration of 'vtkSmartPointer'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(312): error C2065: 'KeyPressInteractorStyle': undeclared identifier
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(312): error C2923: 'vtkSmartPointer': 'KeyPressInteractorStyle' is not a valid template type argument for parameter 'T'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(313): error C2065: 'KeyPressInteractorStyle': undeclared identifier
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(313): error C2923: 'vtkSmartPointer': 'KeyPressInteractorStyle' is not a valid template type argument for parameter 'T'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(313): error C2955: 'vtkSmartPointer': use of class template requires template argument list
-  C:\Users\Ujas\Documents\VTK\VTK\Common\Core\vtkSmartPointer.h(26): note: see declaration of 'vtkSmartPointer'
-C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\src\QtVTKRenderWindows.cxx(313): error C2514: 'vtkSmartPointer': class has no constructors
-  C:\Users\Ujas\Documents\VTK\VTK\Common\Core\vtkSmartPointer.h(26): note: see declaration of 'vtkSmartPointer'
+﻿  Generating moc_QtVTKRenderWindows.cpp
+  QtVTKRenderWindows.cxx
+  QtVTKRenderWindowsApp.cxx
+  QtVTKRenderWindows_automoc.cpp
+  Generating Code...
+  QtVTKRenderWindows.vcxproj -> C:\Users\Ujas\Documents\VTK\VTKProjects\FourPanelViewer\vs\Release\QtVTKRenderWindows.exe

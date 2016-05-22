@@ -398,9 +398,7 @@ bool QtVTKRenderWindows::LoadDicom()
 	connect(this->ui->thickModeCheckBox, SIGNAL(stateChanged(int)), this, SLOT(thickMode(int)));
 	this->ui->thickModeCheckBox->setEnabled(0);
 
-	for (int i = 0; i < 3; i++) {
-		riw[i]->SliceScrollOnMouseWheelOn();
-	}
+
 
 	connect(this->ui->radioButton_Max, SIGNAL(pressed()), this, SLOT(SetBlendModeToMaxIP()));
 	connect(this->ui->radioButton_Min, SIGNAL(pressed()), this, SLOT(SetBlendModeToMinIP()));
@@ -409,17 +407,43 @@ bool QtVTKRenderWindows::LoadDicom()
 
 	connect(this->ui->resetButton, SIGNAL(pressed()), this, SLOT(ResetViews()));
 	connect(this->ui->AddDistance1Button, SIGNAL(pressed()), this, SLOT(AddDistanceMeasurementToView1()));
+
+	ui->spinBox->setValue(planeWidget[0]->GetSliceIndex());
+	ui->spinBox_2->setValue(planeWidget[1]->GetSliceIndex());
+	ui->spinBox_3->setValue(planeWidget[2]->GetSliceIndex());
+
+	connect(this->ui->spinBox, SIGNAL(valueChanged(int)), this, SLOT(Slice0(int)));
+	connect(this->ui->spinBox_2, SIGNAL(valueChanged(int)), this, SLOT(Slice1(int)));
+	connect(this->ui->spinBox_3, SIGNAL(valueChanged(int)), this, SLOT(Slice2(int)));
 		this->ui->view1->show();
 		this->ui->view2->show();
 		this->ui->view3->show();
-		
+		return true;
 		
 }
 
+
+
 void QtVTKRenderWindows::SliceOnScroll()
 {
+	
 
-	for (int i = 0; i < 3; i++) {
-		riw[i]->SliceScrollOnMouseWheelOn();
-	}
+}
+void QtVTKRenderWindows::Slice0(int i)
+{
+	planeWidget[1]->SetSliceIndex(i);
+}
+
+void QtVTKRenderWindows::Slice1(int i)
+{
+	planeWidget[1]->SetSliceIndex(i);
+}
+
+void QtVTKRenderWindows::Slice2(int i)
+{
+	planeWidget[2]->SetSliceIndex(i);
+}
+void QtVTKRenderWindows::Slice3(int i)
+{
+	planeWidget[3]->SetSliceIndex(i);
 }

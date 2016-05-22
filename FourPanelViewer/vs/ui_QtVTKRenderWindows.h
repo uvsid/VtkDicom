@@ -22,6 +22,7 @@
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QPushButton>
 #include <QtWidgets/QRadioButton>
+#include <QtWidgets/QSpinBox>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -49,10 +50,12 @@ public:
     QRadioButton *radioButton_Max;
     QRadioButton *radioButton_Mean;
     QPushButton *resetButton;
+    QPushButton *btnOpenDicom;
+    QSpinBox *spinBox;
     QFrame *frame_2;
     QPushButton *AddDistance1Button;
-    QPushButton *pushButton;
-    QPushButton *btnOpenDicom;
+    QSpinBox *spinBox_2;
+    QSpinBox *spinBox_3;
 
     void setupUi(QMainWindow *QtVTKRenderWindows)
     {
@@ -117,7 +120,7 @@ public:
 
         frame = new QFrame(centralwidget);
         frame->setObjectName(QStringLiteral("frame"));
-        frame->setGeometry(QRect(629, 39, 161, 521));
+        frame->setGeometry(QRect(640, 20, 161, 521));
         frame->setFrameShape(QFrame::StyledPanel);
         frame->setFrameShadow(QFrame::Raised);
         resliceModeCheckBox = new QCheckBox(frame);
@@ -141,20 +144,26 @@ public:
         resetButton = new QPushButton(frame);
         resetButton->setObjectName(QStringLiteral("resetButton"));
         resetButton->setGeometry(QRect(10, 220, 51, 21));
-        frame_2 = new QFrame(frame);
+        btnOpenDicom = new QPushButton(centralwidget);
+        btnOpenDicom->setObjectName(QStringLiteral("btnOpenDicom"));
+        btnOpenDicom->setGeometry(QRect(10, 0, 75, 23));
+        spinBox = new QSpinBox(centralwidget);
+        spinBox->setObjectName(QStringLiteral("spinBox"));
+        spinBox->setGeometry(QRect(840, 280, 42, 22));
+        frame_2 = new QFrame(centralwidget);
         frame_2->setObjectName(QStringLiteral("frame_2"));
-        frame_2->setGeometry(QRect(0, 250, 161, 211));
+        frame_2->setGeometry(QRect(650, 300, 161, 211));
         frame_2->setFrameShape(QFrame::StyledPanel);
         frame_2->setFrameShadow(QFrame::Raised);
         AddDistance1Button = new QPushButton(frame_2);
         AddDistance1Button->setObjectName(QStringLiteral("AddDistance1Button"));
         AddDistance1Button->setGeometry(QRect(0, 0, 131, 21));
-        pushButton = new QPushButton(centralwidget);
-        pushButton->setObjectName(QStringLiteral("pushButton"));
-        pushButton->setGeometry(QRect(20, 0, 75, 23));
-        btnOpenDicom = new QPushButton(centralwidget);
-        btnOpenDicom->setObjectName(QStringLiteral("btnOpenDicom"));
-        btnOpenDicom->setGeometry(QRect(100, 0, 75, 23));
+        spinBox_2 = new QSpinBox(centralwidget);
+        spinBox_2->setObjectName(QStringLiteral("spinBox_2"));
+        spinBox_2->setGeometry(QRect(880, 280, 42, 22));
+        spinBox_3 = new QSpinBox(centralwidget);
+        spinBox_3->setObjectName(QStringLiteral("spinBox_3"));
+        spinBox_3->setGeometry(QRect(930, 280, 42, 22));
         QtVTKRenderWindows->setCentralWidget(centralwidget);
 
         retranslateUi(QtVTKRenderWindows);
@@ -177,9 +186,8 @@ public:
         radioButton_Max->setText(QApplication::translate("QtVTKRenderWindows", "Max Intensity Blend", 0));
         radioButton_Mean->setText(QApplication::translate("QtVTKRenderWindows", "Mean Blend", 0));
         resetButton->setText(QApplication::translate("QtVTKRenderWindows", "Reset", 0));
-        AddDistance1Button->setText(QApplication::translate("QtVTKRenderWindows", "Add Distance On View 1", 0));
-        pushButton->setText(QApplication::translate("QtVTKRenderWindows", "PushButton", 0));
         btnOpenDicom->setText(QApplication::translate("QtVTKRenderWindows", "LoadDicom", 0));
+        AddDistance1Button->setText(QApplication::translate("QtVTKRenderWindows", "Add Distance On View 1", 0));
     } // retranslateUi
 
 };
