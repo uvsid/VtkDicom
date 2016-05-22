@@ -1,0 +1,107 @@
+# CMake generation dependency list for this directory.
+C:/Users/Ujas/Documents/VTK/VTKProjects/FourPanelViewer/src/CMakeLists.txt
+C:/Users/Ujas/Documents/VTK/VTKProjects/FourPanelViewer/vs/CMakeFiles/3.5.2/CMakeSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/Ujas/Documents/VTK/VTKProjects/FourPanelViewer/vs/CMakeFiles/3.5.2/CMakeCCompiler.cmake
+C:/Users/Ujas/Documents/VTK/VTKProjects/FourPanelViewer/vs/CMakeFiles/3.5.2/CMakeCXXCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeGenericSystem.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/Windows.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/WindowsPaths.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/Windows-MSVC.cmake
+C:/Users/Ujas/Documents/VTK/VTKProjects/FourPanelViewer/vs/CMakeFiles/3.5.2/CMakeRCCompiler.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeRCInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeCXXInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeLanguageInformation.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/Ujas/Documents/VTK/build/VTKConfigVersion.cmake
+C:/Users/Ujas/Documents/VTK/build/VTKConfig.cmake
+C:/Users/Ujas/Documents/VTK/build/VTKTargets.cmake
+C:/Users/Ujas/Documents/VTK/VTK/CMake/vtkModuleAPI.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkCommonCore.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkkwiml.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtksys.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkFiltersSources.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkCommonComputationalGeometry.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkCommonDataModel.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkCommonMath.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkCommonMisc.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkCommonSystem.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkCommonTransforms.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkFiltersGeneral.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkFiltersCore.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkCommonExecutionModel.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkGUISupportQt.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Core/Qt5CoreConfig.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Core/Qt5CoreMacros.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QDDSPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkFiltersExtraction.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkFiltersStatistics.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkImagingFourier.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkImagingCore.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkalglib.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkInteractionStyle.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkRenderingCore.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkCommonColor.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkFiltersGeometry.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkRenderingOpenGL2.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkUtilitiesEncodeString.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkglew.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkIOImage.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkDICOMParser.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkIOCore.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkzlib.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkMetaIO.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkjpeg.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkpng.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtktiff.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkInteractionImage.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkImagingColor.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkInteractionWidgets.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkFiltersHybrid.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkImagingSources.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkFiltersModeling.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkImagingGeneral.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkImagingHybrid.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkRenderingAnnotation.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkRenderingFreeType.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkfreetype.cmake
+C:/Users/Ujas/Documents/VTK/build/lib/cmake/vtk-7.1/Modules/vtkRenderingVolume.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeConfigurableFile.in
+C:/Users/Ujas/Documents/VTK/VTK/CMake/UseVTK.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5/Qt5ConfigVersion.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5/Qt5Config.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake
+C:/Qt2016/5.6/msvc2015/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/AutogenInfo.cmake.in

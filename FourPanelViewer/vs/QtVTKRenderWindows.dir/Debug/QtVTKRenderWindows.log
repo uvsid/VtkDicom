@@ -1,0 +1,5 @@
+﻿  QtVTKRenderWindows.cxx
+  QtVTKRenderWindowsApp.cxx
+  QtVTKRenderWindows_automoc.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Ujas\Documents\VTK\build\lib\Debug\vtkGUISupportQt-7.1.lib'

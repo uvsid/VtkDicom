@@ -1,0 +1,3 @@
+C:/Users/Ujas/Documents/VTK/VTKProjects/FourPanelViewer/vs/CMakeFiles/QtVTKRenderWindows.dir
+C:/Users/Ujas/Documents/VTK/VTKProjects/FourPanelViewer/vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ujas/Documents/VTK/VTKProjects/FourPanelViewer/vs/CMakeFiles/ZERO_CHECK.dir
